@@ -1,0 +1,13 @@
+{
+  "cSpell.words": [
+    "autoload",
+    "textnode"
+  ],
+  "editor.autoClosingBrackets": "never",
+  "editor.autoClosingDelete": "never",
+  "editor.autoClosingQuotes": "never",
+  "editor.codeActionsOnSave": {
+    "source.fixAll": true
+  },
+  "editor.defaultFormatter": "dbaeumer.vscode-eslint"
+}
